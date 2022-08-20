@@ -8,7 +8,7 @@
 
 
 <table align="center">
-  <tbody>
+  <thead>
     <tr align="center">
       <td>
         <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt="html" width="50px" height="50px">
@@ -38,7 +38,9 @@
         <img src="https://git-scm.com/images/logo.png" alt="git" width="55" height="23">
       </td>
     </tr>
-    <tr align="center">
+  </thead>
+  <tbody>
+    <tr align="center" bgcolor="#ffffff">
       <td>
         HTML
       </td>
