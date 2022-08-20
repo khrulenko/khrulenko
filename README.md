@@ -6,7 +6,7 @@
 
 <h1> My skills:</h1>
 
-<div align="center" display="flex">
+<div align="center">
   <div>
     <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt="html" width="50" height="50">
     <div>
