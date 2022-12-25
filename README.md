@@ -41,6 +41,9 @@
       <td>
         <img src="https://git-scm.com/images/logo.png" alt="git" width="55" height="23">
       </td>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" alt="git" width="50" height="50">
+      </td>
     </tr>
   </thead>
   <tbody>
@@ -71,6 +74,9 @@
       </td>
       <td>
         Git
+      </td>
+      <td>
+        Material-UI
       </td>
     </tr>
   </tbody>
